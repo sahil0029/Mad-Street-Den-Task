@@ -15,3 +15,7 @@ Try to make it interactive and engaging for the user. Provide a high level flow 
 - Video Page
 - UX Flow
 
+# Task Completion :
+
+[Figma File](https://www.figma.com/file/hI61RBGA8nKXfaAKoCXS5M/Mad-Street-Den-Task?type=design&node-id=302%3A1043&mode=design&t=6ckYhQPMMf7cgXbj-1)
+
